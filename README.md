@@ -8,9 +8,10 @@
 
 ### Setup
 
-.env requirements 
+.env requirements
 
 PORT - 8000
+
 DATABASE_URL - postgres
 
 ## How to initialize/run your application (where applicable)
