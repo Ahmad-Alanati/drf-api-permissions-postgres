@@ -1,21 +1,24 @@
-# LAB - Class xx
+# LAB - Class 32
 
-## Project: Project Name Here
+## Project: drf-api-permissions-postgres
 
-## Author: Student/Group Name
+## Author: ahmad jehad
 
 ## Links and Resources
 
 ### Setup
 
-.env requirements 
+.env requirements
 
-PORT - Port Number
-DATABASE_URL - URL to the running Postgres instance/db
+PORT - 8000
+
+DATABASE_URL - postgres
 
 ## How to initialize/run your application (where applicable)
 
-e.g. python main.py
+python manage.py runserver
+
+docker-compose up
 
 ## How to use your library (where applicable)
 
